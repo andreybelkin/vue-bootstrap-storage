@@ -1,0 +1,23 @@
+.DS_Store
+
+# Dependency
+node_modules/
+
+# built files
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# jest test coverage
+.jest_coverage
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.iml
